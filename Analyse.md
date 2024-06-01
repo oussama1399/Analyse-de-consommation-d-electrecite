@@ -42,3 +42,10 @@ La courbe montre de nombreuses fluctuations de la température au fil du temps, 
 La température varie de manière importante, passant d'environ 10°C à près de 35°C selon les périodes.
 On peut identifier des cycles saisonniers, avec des températures plus élevées en été et plus basses en hiver.
 Certaines périodes connaissent des variations de température plus brutales, avec des changements rapides d'un jour à l'autre.
+
+
+la dernière visualisation montre l'évolution de l'Indice de Thom en fonction du temps sur une période d'un an, du 1er janvier 2017 au 30 décembre 2017. L'Indice de Thom est une mesure de la volatilité du marché.
+
+On peut observer que l'Indice de Thom présente de fortes variations sur cette période, avec des pics et des creux. Cela indique que le marché a connu une volatilité significative au cours de cette année. Certaines périodes montrent une volatilité plus élevée que d'autres, suggérant des moments de plus grande instabilité sur les marchés.
+
+Dans l'ensemble, cette visualisation permet de suivre les fluctuations de la volatilité du marché sur l'année 2017, donnant un aperçu de la dynamique des marchés financiers pendant cette période.
