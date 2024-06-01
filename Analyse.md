@@ -49,6 +49,3 @@ THI = T – [(0,55- 0,0055 . U) . (T- 14,5)]
 
 Avec T : température de l’air en °C, et U : humidité relative en %.
 
-On peut observer que l'Indice de Thom présente de fortes variations sur cette période, avec des pics et des creux. Cela indique que le marché a connu une volatilité significative au cours de cette année. Certaines périodes montrent une volatilité plus élevée que d'autres, suggérant des moments de plus grande instabilité sur les marchés.
-
-Dans l'ensemble, cette visualisation permet de suivre les fluctuations de la volatilité du marché sur l'année 2017, donnant un aperçu de la dynamique des marchés financiers pendant cette période.
