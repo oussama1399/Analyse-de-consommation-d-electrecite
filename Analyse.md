@@ -44,7 +44,10 @@ On peut identifier des cycles saisonniers, avec des températures plus élevées
 Certaines périodes connaissent des variations de température plus brutales, avec des changements rapides d'un jour à l'autre.
 
 
-la dernière visualisation montre l'évolution de l'Indice de Thom en fonction du temps sur une période d'un an, du 1er janvier 2017 au 30 décembre 2017. L'Indice de Thom est une mesure de la volatilité du marché.
+la dernière visualisation montre l'évolution de l'Indice de Thom en fonction du temps sur une période d'un an, du 1er janvier 2017 au 30 décembre 2017. L’indice THI de Thom (Temperature Humidity Index) combine la température et l’humidité de l’air. Il se calcule selon la formule suivante :
+THI = T – [(0,55- 0,0055 . U) . (T- 14,5)]
+
+Avec T : température de l’air en °C, et U : humidité relative en %.
 
 On peut observer que l'Indice de Thom présente de fortes variations sur cette période, avec des pics et des creux. Cela indique que le marché a connu une volatilité significative au cours de cette année. Certaines périodes montrent une volatilité plus élevée que d'autres, suggérant des moments de plus grande instabilité sur les marchés.
 
