@@ -6,5 +6,3 @@ Ensuite, la granularité fine des mesures, réalisées toutes les 10 minutes, of
 
 Enfin, la décomposition de la consommation totale en trois zones distinctes ouvre la voie à une compréhension plus approfondie des dynamiques locales. On pourra ainsi identifier d'éventuelles différences de comportement entre les zones et mieux cerner les facteurs d'influence.
 
-
-NOTE: pour que le code fonctionne correctement veuillez modifer le chemin de la data dans le code plus precisément dans la variable filepath.
