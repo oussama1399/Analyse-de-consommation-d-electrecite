@@ -8,8 +8,7 @@ from bokeh.layouts import column, row, Spacer
 
 
 # Charger les données
-file_path = r'C:\Users\PC\Desktop\bokeh app\bokeh app\powerconsumption.csv'
-data = pd.read_csv(file_path, parse_dates=['Datetime'], date_parser=lambda x: pd.to_datetime(x, format='%m/%d/%Y %H:%M'))
+data = pd.read_csv('bokeh-app-main\\powerconsumption.csv', parse_dates=['Datetime'], date_parser=lambda x: pd.to_datetime(x, format='%m/%d/%Y %H:%M'))
 
 # Créer une figure Bokeh pour la consommation d'énergie
 p = figure(title="Évolution de la consommation d'énergie des trois zones (KW)",
@@ -188,7 +187,7 @@ date_range_slider_temperature.js_on_change('value', callback4)
 
 
 
-data5 = pd.read_csv(file_path, parse_dates=["Datetime"], date_parser=lambda x: pd.to_datetime(x, format="%m/%d/%Y %H:%M"))
+data5 = pd.read_csv('bokeh-app-main\\powerconsumption.csv', parse_dates=["Datetime"], date_parser=lambda x: pd.to_datetime(x, format="%m/%d/%Y %H:%M"))
 
 # Calculer l'indice de Thom pour chaque ligne
 data5["THI"] = data5["Temperature"] - ((0.55 - 0.0055 * data5["Humidity"]/100.0) * (data5["Temperature"] - 14.5))
