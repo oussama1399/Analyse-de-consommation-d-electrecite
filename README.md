@@ -5,3 +5,6 @@ Tout d'abord, la couverture temporelle étendue, allant du 1er janvier 2017 au 1
 Ensuite, la granularité fine des mesures, réalisées toutes les 10 minutes, offre une résolution temporelle très précise. Cela permettra d'analyser finement les corrélations entre les variables météorologiques (température, humidité, vent, ensoleillement) et les pics/creux de consommation.
 
 Enfin, la décomposition de la consommation totale en trois zones distinctes ouvre la voie à une compréhension plus approfondie des dynamiques locales. On pourra ainsi identifier d'éventuelles différences de comportement entre les zones et mieux cerner les facteurs d'influence.
+
+
+NOTE: pour que le code fonctionne correctement veuillez modifer le chemin de la data dans le code plus precisément dans la variable filepath.
